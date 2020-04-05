@@ -2,9 +2,11 @@
 
 vinayakrit
 
+Get more on website :  https://vinayakrit.github.io/
+
 https://github.com/vinayakrit/ssh-configuration-script
 
-For any query contact me 1703007@ritindia.edu
+For any query mail me on 1703007@ritindia.edu
 
 To run give executable permission using command :
 
